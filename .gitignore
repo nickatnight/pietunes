@@ -1,4 +1,4 @@
-.*pyc
+*.pyc
 *.mp3
 *.wav
 *.m4a
