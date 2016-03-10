@@ -1,0 +1,5 @@
+.*pyc
+*.mp3
+*.wav
+*.m4a
+.ropeproject

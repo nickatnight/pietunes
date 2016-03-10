@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="back-g">
+    <div class="" style="text-align:center;">
+        <h5 id="songTitleDisplay"></h5>
+        <audio id="player" controls>
+            <source src="" id="id_player" type="audio/mpeg">
+        </audio>
+    </div>
+    <div class=row>
+        <div class="col-md-5">
+            <h3><u>Title</u></h3>
+        </div>
+        <div class="col-md-3">
+            <h3><u>Artist</u></h3>
+        </div>
+        <div class="col-md-4">
+            <h3><u>Album</u></h3>
+        </div>
+    </div>
+    {% for m in range(1,60) %}
+    <div class="row high">
+        <div id="songTitle{{m}}" class="col-md-5">
+            {{music[m].title}}
+        </div>
+        <div id="songArtist{{m}}" class="col-md-3">
+            {{music[m].artist}}
+        </div>
+        <div class="col-md-4">
+            {{music[m].album}}
+        </div>
+        <div class="path" id="{{m}}" style="display:none;">
+            {{music[m].path}}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
