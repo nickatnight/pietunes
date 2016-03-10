@@ -42,5 +42,5 @@ def fetch_data():
                 #print os.path.dirname(os.path.dirname(os.path.join(root, name)))
 
 
-fetch_data()
-print music_dict
+#fetch_data()
+#print music_dict
