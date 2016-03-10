@@ -6,8 +6,10 @@ env = os.environ['HOME']
 
 if 'nick' in env:
     music_dir = '/Users/nick/Music/iTunes/iTunes Media/Music/'
+    web_dir = 'static/music/'
 else:
     music_dir = '/mnt/seagatehd/Music'
+    web_dir = 'Music/'
 
 music_dict = {}
 
@@ -33,7 +35,7 @@ def fetch_data():
                     'title': audio['title'][0],
                     'artist': audio['artist'][0],
                     'album': audio['album'][0],
-                    'path': full_path.replace("/Users/nick/Music/iTunes/iTunes Media/Music/","static/music/"),
+                    'path': full_path.replace(music_dir, web_dir),
                     'pk': pk
                 }
                 pk += 1
@@ -41,8 +43,5 @@ def fetch_data():
                 #print os.path.dirname(os.path.dirname(os.path.join(root, name)))
 
 
-
-
 fetch_data()
-print music_dict
 #print music_dict
