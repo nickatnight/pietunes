@@ -13,6 +13,12 @@ else:
 
 music_dict = {}
 
+
+def parser(attrib, audio):
+    if not attrib in audio:
+        audio[attrib] = 'None'
+        audio.save()
+
 def fetch_data():
     pk=1
     for root,dirs,files in os.walk(music_dir):
@@ -20,16 +26,9 @@ def fetch_data():
             if name.endswith('.mp3'):
                 full_path = os.path.join(root,name)
                 audio = EasyID3(full_path)
-                #print audio['album'][0] || None
-                if not 'album' in audio:
-                    audio['album'] = 'No album title.'
-                    audio.save()
-                if not 'artist' in audio:
-                    audio['artist'] = 'No artist name.'
-                    audio.save()
-                if not 'title' in audio:
-                    audio['title'] = 'No title name.'
-                    audio.save()
+                parser('artist', audio)
+                parser('album', audio)
+                parser('title', audio)
                 entry = {}
                 entry[pk] = {
                     'title': audio['title'][0],
@@ -44,4 +43,4 @@ def fetch_data():
 
 
 fetch_data()
-#print music_dict
+print music_dict
