@@ -10,6 +10,7 @@ body {
 .row, .high {
     color: white;
     line-height:35px;
+    word-wrap:break-word;
 }
 
 .high:hover {
