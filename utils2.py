@@ -23,6 +23,9 @@ fp = open('errors_log.txt', 'w')
 fp.close()
 
 
+def speak(msg, wait=False):
+    os.system('echo "%s" | say%s'%(msg, wait and ' ' or ' &'))
+
 def parser(attrib, audio):
     if not attrib in audio:
         audio[attrib] = 'None'
@@ -44,7 +47,7 @@ def get_ext(link):
     elif(link.endswith('.m4a')):
         return EasyMP4(link)
     else:
-        raise ValueError('Unable to read.')
+        raise ValueError('Unable to read file extension.')
 
 
 def color_text(txt, status):
@@ -99,4 +102,4 @@ def json_parse_data(search=None):
 
 if __name__ == "__main__":
     json_parse_data()
-    print 'Write to json successfull.'
+    speak('Write to music.json successfull.')
