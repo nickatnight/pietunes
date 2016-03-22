@@ -1,0 +1,53 @@
+/Users/nick/Music/iTunes/iTunes Media/Music/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/ASTR/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Banganagangbangers/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/BEDR808M/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/BLVCK/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Ethan Glass/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Fetty Wap/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/G Jones/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/G Jones & Doshy/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/G Jones & Zeke Beats/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Grandtheft & Keys N Krates/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Justin Timberlake/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/kMiz/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/kMiz/http___soundcloud.com_kmiz/Soft SheepSkin.aif
+/Users/nick/Music/iTunes/iTunes Media/Music/ODESZA/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Potions/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Shlump/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Shlump x Partywave/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/The Ninetys/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/.DS_Store
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/01. AtYyA - Aurical - Am - 84.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/02. AtYyA - movement - Em - 143.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/03. AtYyA - Immortal - Am - 84.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/04. AtYyA - Dream - C# - 72.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Above The Clouds.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Adhittana - F#m - 84.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Altar Form - Fm - 73.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Anscestors Speak (Ft Ixchel Prisma).wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Circularium - F#m - 72.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Close To Me SN - Cm - 100.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Cygnus - F#m - 84.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Dream (808 Refix).wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Emanating - Fm - 72.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - fortress of light - Fm - 70.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Illuminate.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Listen To Your Heart SN - D#m - 83.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Livin SN - C - 100.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Oceanic - D#m - 82.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Seeing Truly - Em - 71.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA - Valiant - G#m - 86.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA X goopsteppa - ___.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA X goopsteppa - Biaaa Master 2444.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA X Goopsteppa - Lucid SN - C#m - 78.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AtYyA-Amoebas - Am or Dm - 105.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Ayla Nereo - Let It In (AtYyA remix) sn - Dm - 140.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Ayla Nereo -Eastern Sun (AtYyA Remix) - A - 80.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Breath Of Ma (AtYyA Remix sn - Bm - 90.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Desert Dwellers - Bird Over Sand Dunes (AtYyA Remix).wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/final.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/imxone.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/lowmix2.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/mix3.wav
+/Users/nick/Music/iTunes/iTunes Media/Music/Wizard/.DS_Store

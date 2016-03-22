@@ -76,18 +76,19 @@ def json_parse_data(search=None):
             parser('album', audio)
             parser('title', audio)
             entry = {}
+            YEAR = get_year(full_path)
             entry = {
                 'title': audio['title'][0],
                 'artist': audio['artist'][0],
                 'album': audio['album'][0],
-                'path': full_path.replace(music_dir, web_dir)
+                'path': full_path.replace(music_dir, web_dir),
+                'year': YEAR
             }
-            YEAR = get_year(full_path)
             meta_dict = {
                 "index": {
                     "_id": str(pk),
                     "_index": "music",
-                    "_type": YEAR
+                    "_type": "nick"
                 }
             }
             pk += 1
