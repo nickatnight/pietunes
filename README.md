@@ -1,11 +1,13 @@
 # pieTunes  
   
   
+[![Build
+Status](https://travis-ci.org/nickatnight/pietunes.svg?branch=master)](https://travis-ci.org/nickatnight/pietunes)  
   
-Have a bunch of music you want to access from the cloud? Don't want to pay those
-ugly storage fees? If your like me and have a couple hundred gigs of audio
-files, then pieTunes is for you.
-
-## What you will need  
-- RaspberryPi
-- External HD (music only)
+[![Coverage
+Status](https://coveralls.io/repos/github/nickatnight/pietunes/badge.svg?branch=master)](https://coveralls.io/github/nickatnight/pietunes?branch=master)  
+  
+[![Documentation
+Status](https://readthedocs.org/projects/pietunes/badge/?version=latest)](http://pietunes.readthedocs.io/en/latest/?badge=latest)  
+  
+lwbco.

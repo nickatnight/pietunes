@@ -19,10 +19,10 @@ Other 'convenient' items:
 - Usb hub with type b input
 - Monitor
 
-.. note:: The convenient items are neccessary for optimal streaming speeds, 
-          especially the Usb hub. Since the pi runs on 1000mA, faulty behavior
-          will arise if the power isn't distributed evenly amongst the
-          peripherals.
+.. note:: The convenient items are neccessary for optimal streaming speeds,
+   especially the Usb hub. Since the pi runs on 1000mA, faulty behavior
+   will arise if the power isn't distributed evenly amongst the
+   peripherals.
 
 Insert the type A male end of the type A-B usb cable into one of the usb ports on the
 pi, and the other end (type B male) into the usb hub. Next, insert the
